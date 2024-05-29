@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779227068204",
+    "project_id": "plcultd",
+    "storage_bucket": "plcultd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779227068204:android:d835480979c049d49c9e89",
+        "android_client_info": {
+          "package_name": "com.example.plants_care_uganda_ltd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtBbMsSz_DOcCSYsad3j8yEH-ql5RInPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
